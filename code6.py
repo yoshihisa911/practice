@@ -6,7 +6,7 @@ class HotelRoom:
 
     def check_in(self, guest_name):
         self.guest_name = guest_name
-
+　
     def check_out(self):
         self.guest_name = None
 
